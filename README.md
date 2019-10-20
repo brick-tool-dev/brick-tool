@@ -1,7 +1,8 @@
 # brick-tool
 
 ## Install
-- download brick.zip and extrace anywhere
+- download brick.zip.1* and run command `cat brick.zip.1* > brick.zip`
+- extrace brick.zip anywhere
 - brick is in folder `bin`
 
 ## Usage
