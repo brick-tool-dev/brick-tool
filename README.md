@@ -2,9 +2,10 @@
 
 ## Install
 - download brick.zip.1* and run command `cat brick.zip.1* > brick.zip`
-- extrace brick.zip anywhere
+- extract brick.zip anywhere
 - brick is in folder `bin`
 
 ## Usage
-- run command `brick file_to_verify` to verify file
+- change directory to `brick`
+- run command `bin/brick <file_to_verify>`
 - verification result will be shown and witness will be generated
