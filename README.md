@@ -3,7 +3,6 @@
 ## Install
 - download brick.zip.1* and run command `cat brick.zip.1* > brick.zip`
 - extract brick.zip anywhere
-- brick is in folder `bin`
 
 ## Usage
 - change directory to `brick`
