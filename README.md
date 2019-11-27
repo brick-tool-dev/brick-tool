@@ -8,4 +8,5 @@
 ## Usage
 - change directory to `brick`
 - run command `bin/brick <file_to_verify>`
+- we use files from ReachSafety-Floats in [sv-benchmark](https://github.com/sosy-lab/sv-benchmarks)
 - verification result will be shown and witness will be generated
